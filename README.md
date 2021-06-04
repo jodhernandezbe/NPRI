@@ -12,3 +12,10 @@ conda create --name NPRI --file requirements.txt
 ```
 conda NPRI create -f environment.yml
 ```
+# Running the program
+
+You can run the program by simply executing the following line:
+
+```
+python main.py
+```
